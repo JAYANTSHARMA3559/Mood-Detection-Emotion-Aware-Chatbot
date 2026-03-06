@@ -1,4 +1,4 @@
-# Mood Detection & AI Chatbot
+# Mood-Detection & Emotion-Aware-Chatbot
 
 A real-time, empathetic chatbot that uses computer vision to detect and respond to a user's emotional state. This project features two distinct applications: a web-based interface and a desktop GUI.
 
